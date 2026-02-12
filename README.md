@@ -1,4 +1,6 @@
-# Escoba de 15 - Visual Basic 6 (1996)
+# Escoba de 15 - Visual Basic 6 (1994)
+
+*[Read in English](README_EN.md)*
 
 Juego de Escoba de 15 con baraja espanola, escrito en Visual Basic por **Javier Alejandro Cordero**. Originalmente desarrollado en VB3 (~1994), luego migrado a VB6 (V2.00).
 
