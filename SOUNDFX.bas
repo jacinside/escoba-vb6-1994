@@ -66,7 +66,7 @@ End Sub
 
 Sub clicksound1()
     Dim t() As Byte
-    t = MakeTone(800, 15, 0.3)
+    t = MakeTone(800, 80, 0.6)
     PlaySound t(0), 0, SND_MEMORY Or SND_SYNC
 End Sub
 
